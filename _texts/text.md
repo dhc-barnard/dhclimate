@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Digital Humanities and the Climate Crisis
+title: Digital Humanities and the Climate Crisis - Version 1
 ---
 
 ## Preamble
