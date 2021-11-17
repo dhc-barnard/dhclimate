@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-This manifesto emerged from a collective desire to foreground the climate crisis within digital humanities work.
+This manifesto emerged from a collective desire to foreground the climate crisis within digital humanities work. This document incorporates feedback and comments offered on the [first published draft](https://dhc-barnard.github.io/envdh/) of the manifesto, which remains online to preserve the original annotations.
 
 ## Co-authors (in alphabetical order)
 - Anne Baillot
